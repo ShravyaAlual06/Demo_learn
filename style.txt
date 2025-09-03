@@ -1,2 +1,4 @@
 apple
 kiwi
+red
+blue
